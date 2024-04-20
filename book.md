@@ -34,8 +34,6 @@ paginate: true
 
 ３
 
-４
-
 ---
 <!--_class: page-->
 
