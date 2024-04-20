@@ -50,7 +50,7 @@
 }
 
 * {
-    font-family: "リュウミン", "小塚ゴシック", "BIZ UDゴシック", "MS UI Gothic";
+    font-family: "Meiryo UI", "リュウミン", "小塚ゴシック", "BIZ UDゴシック", "MS UI Gothic";
 }
 
 section {
@@ -106,6 +106,7 @@ section.page > h3 {
 section.page > p {
     font-size: 13px;
     text-indent: 1em;
+    letter-spacing: .15em;
     line-height: 1.5em;
     margin-bottom: 0;
 }
